@@ -25,3 +25,7 @@ int linear_search(int A[], int n, int x) {
 
     return -1;
 }
+
+
+//time complexity = O(n)
+//space complexity = O(1)
